@@ -1,0 +1,14 @@
+{
+  "name": "frida",
+  "version": "17.3.2",  
+  "main": "build/frida.js",
+  "license": "LGPL-2.0-only",
+  "type":"module",
+  "typings": "frida.d.ts",
+  "scripts": {
+   },
+  "dependencies": {
+    "bindings": "^1.5.0",
+    "minimatch": "^5.1.6"
+  }
+}
