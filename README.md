@@ -3,7 +3,7 @@
 forked from https://github.com/evi0s/WMPFDebugger
 
 
-#How to uses
+#How to use
 
 conda install -c conda-forge yarn=4.11.0 nodejs=22.12.0 python=3.10.12
 
